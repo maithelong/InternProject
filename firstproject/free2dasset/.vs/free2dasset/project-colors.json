@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e28e7cbd-7d65-07b1-db2d-bf6c5324cf5e": {
+      "ProjectGuid": "e28e7cbd-7d65-07b1-db2d-bf6c5324cf5e",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
